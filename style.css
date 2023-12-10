@@ -1,6 +1,7 @@
 .done{
     text-decoration: line-through;
 }
-button{
-    margin: 10px;
+li{
+   list-style: none;
+   display: inline;
 }
